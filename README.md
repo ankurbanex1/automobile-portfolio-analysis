@@ -115,3 +115,13 @@ This is a full-stack portfolio analytics workflow.
 Ankur Banerjee
 MBA (Finance)  Portfolio & Equity Research Enthusiast
 Python • Quantitative Finance • Data Analytics
+
+## Portfolio Daily Returns Plot
+![Monte Carlo Simulation](plots/Picture1.png)
+
+## Monte Carlo Simulation Plot
+![Monte Carlo Simulation](plots/Picture2.png)
+
+## Efficient Frontier
+![Efficient Frontier](plots/Picture3.png)
+
