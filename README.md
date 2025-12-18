@@ -2,7 +2,6 @@
 
 Automobile Portfolio Analysis – Monte Carlo Simulation & Efficient Frontier
 This project analyzes a portfolio of 10 Indian automobile and auto-ancillary stocks using advanced portfolio techniques including Monte Carlo simulation, Value at Risk (VaR), CVaR, and Efficient Frontier optimization.
-It demonstrates strong skills in Python, quantitative finance, risk modeling, and data visualization, making it ideal for MBA projects, interviews, and finance portfolios.
 
 1. Portfolio Universe (NSE Automobile Sector)
 The study uses 10 major automobile and auto-ancillary stocks listed on the NSE:
