@@ -93,9 +93,15 @@ The notebook automatically:
 ```
 automobile-portfolio-analysis/
 │
-├── Automobile sector portfolio MCsim.ipynb    Main analysis notebook
-├── README.md                              Project documentation
-└── (optional) /plots                      Save graphs here
+├── automobile_portfolio_analysis.ipynb     # Main Jupyter Notebook (full analysis)
+├── README.md                               # Project documentation
+├── requirements.txt                        # Python dependencies for easy setup
+│
+└── plots/                                   # Saved plots used in README + analysis
+    ├── Picture1.png                         # Portfolio Daily Returns plot
+    ├── Picture2.png                         # Monte Carlo simulation plot
+    ├── Picture3.png                         # Efficient Frontier plot
+
 ```
 6. Learning Outcomes
 
